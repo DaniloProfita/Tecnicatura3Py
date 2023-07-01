@@ -38,3 +38,5 @@ except Exception as e:
     print(f'Ocurrio un error: {e}')
 finally:
     conexion.close()
+
+# https_//www.psycopg.org/focs/usage.html
